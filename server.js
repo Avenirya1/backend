@@ -33,7 +33,9 @@ const allowedOrigins = [
   'https://menu-coral-tau.vercel.app',
   'https://srv1070767.hstgr.cloud',
   'http://localhost:3000', 
-  'http://168.231.123.91', // for local development
+  'http://168.231.123.91', 
+  'https://foodiesmenu.in',
+  'https://www.foodiesmenu.in',
 ];
 
 
